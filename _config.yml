@@ -2,16 +2,16 @@
 page_title: DestiWake # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 6451399345 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 6736437794 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: https://play.google.com/store/apps/details?id=com.chunkytofustudios.destiwake&hl=en-US&ah=xnGtjfj_CChkT9y82DWKHKvsPLI
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: DestiWake - travel alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: DestiWake - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: stress free travel
+app_description: Download Now and Start Your Stress-Free Commute!
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -19,38 +19,38 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 your_name: Chunky Tofu Studios
 your_link: https://chunkytofustudios.com
 your_city: Princeton & Dublin
-email_address: chunkytofustudios@gmail.com
-facebook_username:
-instagram_username:
-twitter_username: CntrArchetype
+email_address: support@chunkytofustudios.com
+facebook_username: chunkytofustudios
+instagram_username: chunkytofustudios
+twitter_username: Chunky_Tofu
 github_username: ChunkyTofuStudios
 youtube_username:
 mastodon_link:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Original handmade art
-    description: Fun, colorful, unique pixel-art! We have simple, illustrative, or realistic artwork pieces you can pick from.
-    fontawesome_icon_name: image
+  - title: Set Your Wake-Up Alert
+    description: Sleep without worries on your commute. Just enter your departure and destination stations, set how many minutes before arrival you want to wake up, and enjoy your rest. Our app ensures you wake up refreshed and on time, every time.
+    fontawesome_icon_name: moon
 
-  - title: Paint like Picasso
-    description: The intuitive UI makes it super easy to paint art in minutes. Hold and drag to enter speed painting mode!
-    fontawesome_icon_name: paint-brush
+  - title: Live Journey Tracking
+    description: Watch your journey unfold in real time. Our app uses GPS to show your current location on a map, so you can see exactly where you are and how far you are from your destination. Travel stress-free, knowing you won’t miss your stop.
+    fontawesome_icon_name: map-marker
 
-  - title: Relax and decompress
-    description: No stress painting. Paint while watching TV, or on the bus. Great way to relax and be creative.
-    fontawesome_icon_name: couch
+  - title: Service Updates and Notifications
+    description: Stay informed on the go. Receive real-time updates about delays, cancellations, and service changes directly within the app. Never be caught off guard by transit disruptions again.
+    fontawesome_icon_name: bell
 
-  - title: Create your own
-    description: Would you like to paint your dog? Or a dog in space? Just upload any picture and convert it to pixel art!
-    fontawesome_icon_name: plus
+  - title: Customizable Alerts
+    description: Choose how you wake up. Select your favorite tune or vibration pattern for your alerts. Customize how and when you are notified about approaching your final stop, so waking up is pleasant and reliable.
+    fontawesome_icon_name: clock
 
-  - title: Safe and secure
-    description: All artwork is curated in house, nothing inappropriate here. Plus your own paintings will always remain private.
-    fontawesome_icon_name: user-shield
+  - title: Trip History and Management
+    description: Manage your commutes effortlessly. Save your frequent routes and access past trips with a simple tap. Plan your weekly commutes in advance and modify them as your schedule changes.
+    fontawesome_icon_name: history
 
-  - title: iPhone and Android
-    description: Regardless of which phone you have you can paint some pixels to relax.
+  - title: Available on iOS and Android
+    description: Access anywhere, anytime. Whether you’re an iPhone devotee or an Android enthusiast, our app works seamlessly across platforms, so you can count on us no matter what device you use.
     fontawesome_icon_name: mobile
 
 # Theme Settings
