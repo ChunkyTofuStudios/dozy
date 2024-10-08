@@ -11,7 +11,7 @@ playstore_link: https://play.google.com/apps/testing/com.chunkytofustudios.desti
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: DestiWake - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Download Now and Start Your Stress-Free Commute!
+app_description: Never miss your stop with GPS-based wake-up alerts.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
