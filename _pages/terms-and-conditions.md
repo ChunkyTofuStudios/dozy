@@ -192,4 +192,4 @@ Our failure to enforce any right or provision of these Terms will not be conside
 
 If you have any questions about these Terms, please contact us:
 
-Email: <support@chunkytofustudios.com>
+**Email:** <support@chunkytofustudios.com>

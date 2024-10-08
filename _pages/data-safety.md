@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 6 2024
+Oct 7 2024
 
 **Introduction**
 
@@ -17,7 +17,7 @@ DestiWake is developed by indie developers who believe people own their personal
 
 **Account Deletion**
 
-If you would like to delete your DestiWake account please navigate to the `Settings -> Feedback` section of the app and submit the form requesting account deletion. We will delete your account within 60 days and send you a confirmation email if you provide one in the form. If you are unable to use the in-app Feedback form please email us at <chunkytofustudios@gmail.com> and we will try to help after confirming your ownership of the account.
+If you would like to delete your DestiWake account please navigate to the `Settings -> Feedback` section of the app and submit the form requesting account deletion. We will delete your account within 60 days and send you a confirmation email if you provide one in the form. If you are unable to use the in-app Feedback form please email us at <support@chunkytofustudios.com> and we will try to help after confirming your ownership of the account.
 
 When you delete your account we will remove all user data including:
 
@@ -40,4 +40,4 @@ We will delete the requested data within 60 days and send you a confirmation ema
 
 **Contact Us**
 
-If you have any questions or suggestions about our Data Handling Practices, do not hesitate to contact us at <chunkytofustudios@gmail.com>.
+If you have any questions or suggestions about our Data Handling Practices, do not hesitate to contact us at <support@chunkytofustudios.com>.

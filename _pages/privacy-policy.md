@@ -208,6 +208,7 @@ We may disclose your personal information if required by law or in response to v
 If you have any questions or suggestions about our Privacy Policy or how your personal information is handled, please contact us:
 
 **Email:** <support@chunkytofustudios.com>
+
 **Address:** Princeton NJ / United States of America
 
 **Thank you for trusting Chunky Tofu Studios with your personal information. We are dedicated to protecting your privacy and providing a safe and enjoyable experience with the DestiWake app.**
