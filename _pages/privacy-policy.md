@@ -5,70 +5,209 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 6 2024
+Oct 7 2024
 
-**Privacy Policy**
+# Privacy Policy
 
-Chunky Tofu Studios built the DestiWake app as a Freemium app. This SERVICE is provided by Chunky Tofu Studios at no cost and is intended for use as is.
+**Chunky Tofu Studios LLC** (“we,” “us,” or “our”) built the **DestiWake application** as a Freemium app to transform and enhance your commuting experience. This **Privacy Policy** is designed to explain how we collect, use, share, and protect your personal information when you use the **DestiWake application** (“Service”). Our goal is to be transparent about our data practices and ensure that you feel confident about how your data is managed while using our app.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+**By choosing to use our Service, you agree to the collection and use of your information in accordance with this policy.**
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+## 1. Information We Collect    
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at DestiWake unless otherwise defined in this Privacy Policy.
+To provide and enhance your experience with the DestiWake app (“Service”), we collect the following types of information:
 
-**Information Collection and Use**
+* **Personal Information:** Includes your name and email address. This information allows us to communicate with you and personalize your experience.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email, Uploaded Artwork, Usage Statistics, Crash Logs. The information that we request will be retained by us and used as described in this privacy policy.
+* **Location Information:** We collect your precise geolocation to offer features like wake-up alerts and trip planning. This enables us to provide real-time services tailored to your journey.
 
-The app does use third-party services that may collect information used to identify you.
+* **Device Information:** Details about your device, such as device type, operating system, unique device identifiers, and mobile network information. This helps us ensure compatibility, optimize performance, and diagnose technical issues.
 
-Link to the privacy policy of third-party service providers used by the app
+* **Usage Information:** Information on how you interact with our Service, including features used, pages viewed, session duration, and interaction data. This assists us in understanding usage patterns to improve our app.
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-* [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-* [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-* [Facebook](https://www.facebook.com/about/privacy/update/printable)
-* [RevenueCat](https://www.revenuecat.com/privacy)
+* **Log Information:** In case of errors or crashes, we collect log data that may include your IP address, device name, operating system version, and other diagnostic information to troubleshoot and fix issues.
 
-**Log Data**
+* **Communication Information:** Any messages, feedback, or requests you send to us, including customer support inquiries. This helps us respond to your needs and enhance our Service.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+* **Payment Information:** If you subscribe to premium features, we collect necessary information to process your payment, such as billing address and payment method details. We do not store your payment information; this is securely handled by third-party payment processors.
 
-**Cookies**
+## 2. How We Use Your Information
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+We use the collected information for various purposes, including:
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+* **Providing and Maintaining the Service:** To deliver the app’s features and functionalities, ensuring a seamless experience.
 
-**Service Providers**
+* **Personalizing Your Experience:** To tailor the Service according to your preferences, such as customizing alerts and recommendations based on your usage.
 
-We may employ third-party companies and individuals due to the following reasons:
+* **Processing Payments and Managing Subscriptions:** To facilitate transactions, manage trial periods, and grant access to premium features.
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+* **Communicating with You:** To send important updates, respond to inquiries, and inform you about new features or promotions.
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+* **Improving the Service:** To analyze usage and performance, allowing us to enhance features, fix issues, and develop new functionalities.
 
-**Security**
+* **Ensuring Security and Preventing Fraud:** To protect the integrity of our Service, detect and prevent fraudulent activities, and safeguard user data.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+* **Complying with Legal Obligations:** To meet legal requirements, such as responding to lawful requests and enforcing our terms and policies.
 
-**Links to Other Sites**
+## 3. Third-Party Services
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+We integrate third-party services to enhance our Service. These third parties may collect information used to identify you. 
 
-**Children’s Privacy**
+They include:
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+* [Google Play Services:](https://www.google.com/policies/privacy/) Facilitates app distribution and in-app purchases on Android devices.
+* [AdMob:](https://support.google.com/admob/answer/6128543?hl=en)  Provides personalized advertisements within the app.
+* [Google Analytics for Firebase:](https://firebase.google.com/support/privacy) Collects analytics data to help us understand app usage and improve performance.
+* [Firebase Crashlytics:](https://firebase.google.com/support/privacy/) Gathers crash reports to improve app stability and user experience.
+* [Facebook:](https://www.facebook.com/about/privacy/update/printable) Enables social sharing features and supports marketing campaigns.
+* [RevenueCat:](https://www.revenuecat.com/privacy) Manages in-app subscriptions and purchases across platforms.
+* **Google Maps SDK:** Provides mapping and location services. By using this feature, you agree to the [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms).
+* **Google Fonts:** The app utilizes fonts provided by Google Fonts, including “Montserrat Alternates” and “Poppins.” These fonts are used under the licenses described in the [Google Fonts Licensing](https://fonts.google.com/knowledge/glossary/licensing).
+* **Material Icons:** The app uses Material Icons provided by Google. These icons are licensed under the [Apache License 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE).
 
-**Changes to This Privacy Policy**
+**Please review their respective privacy policies to understand how they handle your data.**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 4. Payment Information
 
-**Contact Us**
+When you subscribe to our premium features, your payment information is collected and processed by third-party payment processors, such as Google Play Store or Apple App Store. We do not store your payment details on our servers. The information collected may include:
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <chunkytofustudios@gmail.com>.
+* **Billing Information:** Your name, billing address, and contact details.
+* **Payment Method Details:** Such as credit/debit card information or other payment credentials.
+
+These processors adhere to industry standards for handling and securing payment data. For more information, please review their privacy policies:
+
+[Google Play Services Privacy Policy](https://policies.google.com/privacy)
+
+[Apple App Store Privacy Policy](https://www.apple.com/legal/privacy/)
+
+## 5. Managing Subscriptions and Trials
+
+We offer trial periods and subscription-based premium features to enhance your experience:
+
+**Trial Periods:** When you sign up for a trial, we collect information to manage your trial status, including the start and end dates.
+
+**Upgrading to Premium:** If you choose to subscribe after the trial, payment processing is handled securely by the respective app store platform.
+
+**Cancellation and Refunds:** You can manage or cancel your subscription at any time through your account settings in the app store. Refunds and cancellations are subject to the policies of the app stores:
+
+* [Manage Subscriptions on Google Play](https://support.google.com/googleplay/answer/7018481)
+* [Manage Subscriptions on Apple App Store](https://support.apple.com/en-us/HT202039)
+* [Google Play Refund Policy](https://support.google.com/googleplay/answer/2479637)
+* [Apple App Store Refund Policy](https://support.apple.com/en-us/HT204084)
+
+If you cancel your subscription during a trial period, you will retain access to premium features until the trial ends, after which your account will revert to the free version.
+
+## 6. Data Sharing and Transfers
+
+We may share your personal information under certain circumstances:
+
+**With Service Providers:** We engage trusted third-party companies to perform services on our behalf, such as analytics, payment processing, and customer support. These providers have access to your personal information only to perform these tasks and are obligated not to disclose or use it for any other purpose.
+
+**Business Transactions:** In the event of a merger, acquisition, or sale of assets, your personal information may be transferred to the new owner. We will notify you before your data is transferred and becomes subject to a different privacy policy.
+
+**Legal Obligations:** We may disclose your information if required to do so by law or in response to valid legal requests by public authorities (e.g., a court or government agency).
+
+**International Data Transfers:** Your information may be transferred to—and maintained on—servers located outside of your country or jurisdiction, where data protection laws may differ. We take steps to ensure that your data is treated securely and in accordance with this Privacy Policy, including implementing appropriate safeguards in compliance with applicable laws.
+
+## 7. Log Data
+
+In the event of errors or technical issues, we collect log data to diagnose and fix problems. This log data may include:
+
+* **IP Address:** Helps identify network-related issues.
+
+* **Device Information:** Such as device name, model, and operating system version.
+
+* **App Configuration:** Details about the app settings and environment during use.
+
+* **Time and Date of Use:** Assists in pinpointing when issues occur.
+
+* **Error Messages and Crash Reports:** Provides insights into the nature of the problem.
+
+This information is used solely for troubleshooting and improving the Service and is not shared with third parties except as necessary for these purposes.
+
+## 8. Cookies
+
+While we do not use cookies directly, third-party services integrated into our app may use cookies or similar tracking technologies to collect information and enhance their services. Cookies are small data files stored on your device that may track information such as user preferences and interactions.
+
+**Managing Cookies:** You can control the use of cookies through your device settings. Disabling cookies may affect the functionality of certain third-party services within our app.
+
+**Third-Party Cookies:** We recommend reviewing the privacy policies of the third-party services we use to understand their use of cookies.
+
+## 9. Advertising and Marketing Communications
+
+We may use your contact information to send you marketing communications about premium features, promotions, or updates:
+
+**Consent:** We will only send you marketing communications if you have opted in or where permitted by applicable laws.
+
+* Clicking the “unsubscribe” link in promotional emails.
+* Contact us directly at <support@chunkytofustudios.com>
+
+Please note that even if you opt-out of marketing communications, we may still send you transactional or service-related messages, such as account notifications or important updates about the Service.
+
+## 10. Data Retention
+
+We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy and to comply with our legal obligations:
+
+* **Retention Periods:** The duration for which we retain data varies depending on the type of information and the purpose for which it was collected.
+* **Criteria for Retention:** We consider factors such as the nature of the data, the purpose of processing, legal requirements, and the potential risks of harm from unauthorized use or disclosure.
+* **Data Deletion:** When your personal information is no longer needed, we will securely delete or anonymize it in accordance with applicable laws and regulations.
+
+## 11. Your Rights
+
+**For EEA and UK Users**
+
+Under the GDPR and the UK Data Protection Act, you have rights including:
+
+* **Right to Access:** Request a copy of your personal data.
+* **Right to Rectification:** Request correction of inaccurate data.
+* **Right to Erasure:** Request deletion of your data under certain conditions.
+* **Right to Restrict Processing:** Request to limit how we use your data.
+* **Right to Data Portability:** Request transfer of your data to another organization.
+* **Right to Object:** Object to processing based on legitimate interests.
+* **Right to Withdraw Consent:** Withdraw consent at any time.
+
+**For California Residents**
+
+Under the CCPA, you have rights including:
+
+* **Right to Know:** Request disclosure of categories and specific pieces of personal information collected.
+* **Right to Delete:** Request deletion of your personal information.
+* **Right to Opt-Out of Sale:** Opt-out of the sale of your personal information (Note: We do not sell personal information).
+* **Right to Non-Discrimination:** Not receive discriminatory treatment for exercising your rights.
+
+**To exercise your rights, please contact us at <support@chunkytofustudios.com>.**
+
+## 12. Security
+
+We value your trust and strive to use commercially acceptable means to protect your personal information. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+## 13. Links to Other Sites
+
+Our Service or ads in our service may contain links to external sites not operated by us. We strongly advise reviewing the Privacy Policy of these websites, as we have no control over their content or practices.
+
+## 14. Children’s Privacy
+
+Our Services are not intended for anyone under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, please contact us at <support@chunkytofustudios.com> so we can take appropriate action.
+
+## 15. Changes to This Privacy Policy
+
+We may update our Privacy Policy periodically. We will notify you of any changes by posting the new policy on this page. Changes are effective immediately upon posting.
+
+## 16. Legal Disclosure and Compliance
+
+We may disclose your personal information if required by law or in response to valid requests by public authorities. This includes:
+
+* Complying with legal obligations or processes.
+* Protecting and defending the rights or property of Chunky Tofu Studios.
+* Preventing or investigating possible wrongdoing.
+* Protecting the personal safety of users or the public.
+* Protecting against legal liability.
+
+## 17. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy or how your personal information is handled, please contact us:
+
+**Email:** <support@chunkytofustudios.com>
+**Address:** Princeton NJ / United States of America
+
+**Thank you for trusting Chunky Tofu Studios with your personal information. We are dedicated to protecting your privacy and providing a safe and enjoyable experience with the DestiWake app.**
