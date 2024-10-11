@@ -5,13 +5,13 @@ page_title: DestiWake # Automatically populates with app name if not set and if 
 ios_app_id: 6736437794 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link: https://testflight.apple.com/join/7uqk2qEQ # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link: https://apps.apple.com/us/app/testflight/id899247664 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: https://play.google.com/apps/testing/com.chunkytofustudios.destiwake
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: DestiWake - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Never miss your stop with GPS-based wake-up alerts.
+app_description: Reach out to us to signup for the closed beta.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
