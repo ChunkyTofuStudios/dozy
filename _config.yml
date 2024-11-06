@@ -11,7 +11,7 @@ playstore_link: https://play.google.com/apps/internaltest/4701585620336993341
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: DestiWake - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Reach out to us to signup for the closed beta.
+app_description: "Realtime trip tracker and GPS-based alarm app designed for commuters in New Jersey, New York, and Ireland."
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -56,6 +56,19 @@ features:
     description: Access anywhere, anytime. Whether you’re an iPhone devotee or an Android enthusiast, our app works seamlessly across platforms, so you can count on us no matter what device you use.
     fontawesome_icon_name: mobile
 
+faqs:
+  - question: How do I set my wake-up alert?
+    answer: "To set your wake-up alert, simply enter your departure and destination stations, and specify how many minutes before arrival you want to wake up. Our app will take care of the rest, ensuring you wake up refreshed and on time."
+
+  - question: Can I track my journey in real time?
+    answer: "Yes! Our app uses GPS to show your current location on a map, so you can see exactly where you are and how far you are from your destination. Travel stress-free, knowing you won’t miss your stop."
+
+  - question: How do I receive service updates and notifications?
+    answer: "Stay informed on the go with our real-time updates about delays, cancellations, and service changes. Receive notifications directly within the app, so you’re always in the know."
+
+  - question: Can I customize my alerts?
+    answer: "Absolutely! Choose your favorite tune or vibration pattern for your alerts. Customize how and when you are notified about approaching your final stop, so waking up is pleasant and reliable."
+
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
@@ -92,7 +105,7 @@ footer_text_color: "#666666"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
 
 # Exclude these files from your production _site
 exclude:
