@@ -20,12 +20,12 @@ function gtag(){dataLayer.push(arguments);}
 
 // Set default consent to 'denied'
 gtag('consent', 'default', {
-    SERVICE_AD_STORAGE: 'denied',
-    SERVICE_AD_USER_DATA: 'denied',
-    SERVICE_AD_PERSONALIZATION: 'denied',
-    SERVICE_ANALYTICS_STORAGE: 'denied',
-    SERVICE_FUNCTIONALITY_STORAGE: 'denied',
-    SERVICE_PERSONALIZATION_STORAGE: 'denied',
+    [SERVICE_AD_STORAGE]: 'denied',
+    [SERVICE_AD_USER_DATA]: 'denied',
+    [SERVICE_AD_PERSONALIZATION]: 'denied',
+    [SERVICE_ANALYTICS_STORAGE]: 'denied',
+    [SERVICE_FUNCTIONALITY_STORAGE]: 'denied',
+    [SERVICE_PERSONALIZATION_STORAGE]: 'denied',
 });
 
 /** 
