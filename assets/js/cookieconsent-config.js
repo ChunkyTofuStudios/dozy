@@ -1,3 +1,5 @@
+// Based on: https://github.com/orestbida/cookieconsent/pull/751/files
+
 import * as CookieConsent from 'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.esm.js';
 
 const CAT_NECESSARY = "necessary";
