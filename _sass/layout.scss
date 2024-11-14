@@ -600,9 +600,28 @@ nav > ul li a:active {
 		padding-left: 0px;
 	}
 	
-} 
+}
 
+// FAQs
 
+.faqs {
+	grid-area: f;
+	display: flex;
+	flex: 0 1 auto;
+	align-content: flex-start;
+	justify-content: flex-start;
+	flex-grow: 1;
+	flex-wrap: wrap;
+	margin-top: 93px;
+}
+
+.faq {
+	display: flex;
+	padding-top: 63px;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: calc(100%/3);
+}
 
 // Footer
 

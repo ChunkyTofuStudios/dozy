@@ -1,0 +1,20 @@
+<div class="faqs">
+
+    {% for faq in site.faqs %}
+
+    {% if faq.question %}
+    <div class="faq">
+        <div class="faqText">
+            <h3>
+                {{ faq.question }}
+            </h3>
+            <p>
+                {{ faq.answer }}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>

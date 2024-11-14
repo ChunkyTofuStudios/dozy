@@ -1,7 +1,7 @@
 <head>
 	{% if site.google_analytics %}
-	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-	<script>
+	<script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+	<script type="text/plain" data-category="analytics">
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
@@ -28,4 +28,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
 		integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+
+	<!-- https://github.com/orestbida/cookieconsent -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css">
 </head>
