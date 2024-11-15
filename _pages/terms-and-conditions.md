@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 7 2024
+Nov 15 2024
 
 # Terms & Conditions
 
@@ -44,6 +44,8 @@ You must be above the age of consent (at least 13 years old in most regions) to 
 [Google Play Refund Policy](https://support.google.com/googleplay/answer/2479637)
 
 [Apple App Store Refund Policy](https://support.apple.com/en-us/HT204084)
+
+**Consent to Share Consumption Data with Apple:** By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
 
 ## 6. License and Restrictions
 
