@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Share
-permalink: /share/:path/
+permalink: /destiwake/share/:path/
 redirect_from:
-  - /share
+  - /destiwake/share
 include_in_header: false
 ---
 
