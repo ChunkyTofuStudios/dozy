@@ -1,5 +1,7 @@
 # Jekyll Settings
 baseurl: "/destiwake"
+plugins:
+  - jekyll-redirect-from
 
 # Page Info
 page_title: DestiWake # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
