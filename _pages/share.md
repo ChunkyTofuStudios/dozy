@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Share
-permalink: /share/:basename
+permalink: /share/:path/
 include_in_header: false
 ---
 
