@@ -5,11 +5,11 @@ include_in_header: true
 ---
 
 **Last updated**
-Nov 15 2024
+Apr 6 2025
 
 # Terms & Conditions
 
-Welcome to **DestiWake** (“the App”), operated by **Chunky Tofu Studios LLC** (“we,” “us,” or “our”). These **Terms and Conditions** (“Terms”) govern your access to and use of the App and any related services (collectively, the “Service”). **By downloading, accessing, or using our Service, you agree to be bound by these Terms.** If you do not agree to these Terms, please do not use our Service.
+Welcome to **Dozy** (“the App”), operated by **Chunky Tofu Studios LLC** (“we,” “us,” or “our”). These **Terms and Conditions** (“Terms”) govern your access to and use of the App and any related services (collectively, the “Service”). **By downloading, accessing, or using our Service, you agree to be bound by these Terms.** If you do not agree to these Terms, please do not use our Service.
 
 ## 1. Acceptance of Terms
 
@@ -21,7 +21,7 @@ You must be above the age of consent (at least 13 years old in most regions) to 
 
 ## 3. Description of Service
 
-**DestiWake** is a mobile application designed to enhance your commuting experience by providing location-based features such as wake-up alerts and trip planning.
+**Dozy** is a mobile application designed to enhance your commuting experience by providing location-based features such as wake-up alerts and trip planning.
 
 ## 4. User Accounts
 

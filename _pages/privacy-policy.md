@@ -5,17 +5,17 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 7 2024
+Apr 6 2025
 
 # Privacy Policy
 
-**Chunky Tofu Studios LLC** (“we,” “us,” or “our”) built the **DestiWake application** as a Freemium app to transform and enhance your commuting experience. This **Privacy Policy** is designed to explain how we collect, use, share, and protect your personal information when you use the **DestiWake application** (“Service”). Our goal is to be transparent about our data practices and ensure that you feel confident about how your data is managed while using our app.
+**Chunky Tofu Studios LLC** (“we,” “us,” or “our”) built the **Dozy application** as a Freemium app to transform and enhance your commuting experience. This **Privacy Policy** is designed to explain how we collect, use, share, and protect your personal information when you use the **Dozy application** (“Service”). Our goal is to be transparent about our data practices and ensure that you feel confident about how your data is managed while using our app.
 
 **By choosing to use our Service, you agree to the collection and use of your information in accordance with this policy.**
 
 ## 1. Information We Collect    
 
-To provide and enhance your experience with the DestiWake app (“Service”), we collect the following types of information:
+To provide and enhance your experience with the Dozy app (“Service”), we collect the following types of information:
 
 * **Personal Information:** Includes your name and email address. This information allows us to communicate with you and personalize your experience.
 
@@ -211,4 +211,4 @@ If you have any questions or suggestions about our Privacy Policy or how your pe
 
 **Address:** Princeton NJ / United States of America
 
-**Thank you for trusting Chunky Tofu Studios with your personal information. We are dedicated to protecting your privacy and providing a safe and enjoyable experience with the DestiWake app.**
+**Thank you for trusting Chunky Tofu Studios with your personal information. We are dedicated to protecting your privacy and providing a safe and enjoyable experience with the Dozy app.**

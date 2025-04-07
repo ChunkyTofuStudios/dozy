@@ -1,10 +1,10 @@
 # Jekyll Settings
-baseurl: "/destiwake"
+baseurl: "/dozy"
 plugins:
   - jekyll-redirect-from
 
 # Page Info
-page_title: DestiWake # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: Dozy # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id: 6736437794 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -14,7 +14,7 @@ appstore_link: https://apps.apple.com/app/apple-store/id6736437794?pt=106088813&
 playstore_link: https://play.google.com/store/apps/details?id=com.chunkytofustudios.destiwake
 
 app_icon: assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: DestiWake - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name: Dozy - Smart Travel Alarm # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: "Realtime trip tracker and GPS-based alarm app designed for commuters in New Jersey, New York, and Ireland."
 

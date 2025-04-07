@@ -9,7 +9,7 @@ Page not found.
 
 If you are trying to access a **shared trip**:
 
-1. Download the DestiWake app by clicking [here](https://chunkytofustudios.com/destiwake)
+1. Download the Dozy app by clicking [here](https://chunkytofustudios.com/dozy)
 1. Setup an account in the app
 1. Click on the link one more time: <a class='self-link'>{{ site.url }}{{ page.url | relative_url }}</a>
 

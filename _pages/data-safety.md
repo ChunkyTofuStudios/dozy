@@ -5,19 +5,19 @@ include_in_header: true
 ---
 
 **Last updated**
-Oct 7 2024
+Apr 6 2025
 
 **Introduction**
 
-This page is designed to give DestiWake users control over their own data. Please continue reading to better understand our data handling practices. Please also visit our [Privacy Policy](https://chunkytofustudios.com/destiwake/privacy-policy/) page.
+This page is designed to give Dozy users control over their own data. Please continue reading to better understand our data handling practices. Please also visit our [Privacy Policy](https://chunkytofustudios.com/dozy/privacy-policy/) page.
 
 **Intent**
 
-DestiWake is developed by indie developers who believe people own their personal data and have full control over it. We will never sell your data to 3rd parties. You have full control of your DestiWake data and we are here to help.
+Dozy is developed by indie developers who believe people own their personal data and have full control over it. We will never sell your data to 3rd parties. You have full control of your Dozy data and we are here to help.
 
 **Account Deletion**
 
-If you would like to delete your DestiWake account please navigate to the `Settings -> Feedback` section of the app and submit the form requesting account deletion. We will delete your account within 60 days and send you a confirmation email if you provide one in the form. If you are unable to use the in-app Feedback form please email us at <support@chunkytofustudios.com> and we will try to help after confirming your ownership of the account.
+If you would like to delete your Dozy account please navigate to the `Settings -> Feedback` section of the app and submit the form requesting account deletion. We will delete your account within 60 days and send you a confirmation email if you provide one in the form. If you are unable to use the in-app Feedback form please email us at <support@chunkytofustudios.com> and we will try to help after confirming your ownership of the account.
 
 When you delete your account we will remove all user data including:
 

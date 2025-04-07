@@ -1,6 +1,6 @@
-# DestiWake
+# Dozy
 
-The landing page for the cross platform DestiWake app.
+The landing page for the cross platform Dozy app.
 
 ## Run Locally
 
