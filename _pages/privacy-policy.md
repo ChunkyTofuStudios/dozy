@@ -186,6 +186,8 @@ If you wish to delete your personal data, please email us at **dozy@chunkytofust
 
 We will process your request within 48 hours when possible and confirm once your data has been deleted.
 
+You can learn more about the process at our [Data Safety page](https://chunkytofustudios.com/dozy/data-safety/).
+
 ## 13. Security
 
 We value your trust and strive to use commercially acceptable means to protect your personal information. However, no method of transmission over the Internet or electronic storage is 100% secure.
