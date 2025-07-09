@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-Apr 6 2025
+Jul 9 2025
 
 # Privacy Policy
 
@@ -177,23 +177,32 @@ Under the CCPA, you have rights including:
 
 **To exercise your rights, please contact us at <support@chunkytofustudios.com>.**
 
-## 12. Security
+## 12. Data Deletion Guide
+
+If you wish to delete your personal data, please email us at **dozy@chunkytofustudios.com**.
+
+- If you contact us from the email address associated with your in-app account, simply state your request for data deletion.
+- If you contact us from a different email address, please include your user ID (found in the app’s settings) so we can verify your identity and process your request.
+
+We will process your request within 48 hours when possible and confirm once your data has been deleted.
+
+## 13. Security
 
 We value your trust and strive to use commercially acceptable means to protect your personal information. However, no method of transmission over the Internet or electronic storage is 100% secure.
 
-## 13. Links to Other Sites
+## 14. Links to Other Sites
 
 Our Service or ads in our service may contain links to external sites not operated by us. We strongly advise reviewing the Privacy Policy of these websites, as we have no control over their content or practices.
 
-## 14. Children’s Privacy
+## 15. Children’s Privacy
 
 Our Services are not intended for anyone under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, please contact us at <support@chunkytofustudios.com> so we can take appropriate action.
 
-## 15. Changes to This Privacy Policy
+## 16. Changes to This Privacy Policy
 
 We may update our Privacy Policy periodically. We will notify you of any changes by posting the new policy on this page. Changes are effective immediately upon posting.
 
-## 16. Legal Disclosure and Compliance
+## 17. Legal Disclosure and Compliance
 
 We may disclose your personal information if required by law or in response to valid requests by public authorities. This includes:
 
@@ -203,7 +212,7 @@ We may disclose your personal information if required by law or in response to v
 * Protecting the personal safety of users or the public.
 * Protecting against legal liability.
 
-## 17. Contact Us
+## 18. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy or how your personal information is handled, please contact us:
 
