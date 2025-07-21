@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-Jul 9 2025
+Jul 21 2025
 
 # Privacy Policy
 
@@ -13,7 +13,9 @@ Jul 9 2025
 
 **By choosing to use our Service, you agree to the collection and use of your information in accordance with this policy.**
 
-## 1. Information We Collect    
+## 1. Information We Collect
+
+**Note:** *Your GPS location never leaves your device and is not set to our service except when you start sharing your trip with your friends/family. When using the trip sharing feature, your GPS location is stored for less than 12 hours on our encrypted servers then promptly deleted. It is never shared with a 3rd party or used for any other purpose including but not limited to tracking, advertising, or analytics.*
 
 To provide and enhance your experience with the Dozy app (“Service”), we collect the following types of information:
 
